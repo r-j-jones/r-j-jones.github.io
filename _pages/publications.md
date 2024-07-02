@@ -17,6 +17,10 @@ author_profile: true
 
 <b>Journal</b>
 ======
+
+*  C. Maffei, G. Girard, K. Schilling, B. Aydogan, N. Aduluru, A. Zhylka, Y. Wu, M. Mancini, A. Hamamci, A. Sarica, A. Telliac, S. Baete, D. Karimi, F. Yeh, M. Yildiz, A. Gholipour, Y. Bihan-Poudec, B. Hiba, An. Quattrone, Al. Quattrone, T. Boshkovski, N. Stikov, P.T. Yap, A. De Luca, J. Pluim, A. Leemans, V. Prabhakaran, B.B. Bendlin, A. Alexander, B. Landman, E. Canales-Rodriguez, M. Barakovic, J. Rafael-Patino, T. Yu, G. Rensonnet, S. Schiavi, A. Daducci, M. Pizzolato, E. Fischi-Gomez, J.P. Thiran, G. Dai, G. Grisot, N. Lazovski, S. Puch, M. Ramos, P. Rodrigues, V. Prchkovska, <b>R. Jones</b>, J. Lehman, S. Haber, A. Yendiki. 2022. <br>[Insights from the IronTract challenge: optimal methods for mapping brain pathways from multi-shell diffusion MRI](https://www.sciencedirect.com/science/article/pii/S1053811922004463)<br><em>. NeuroImage, 257, Pp. 119327. DOI: \href{https://doi.org/10.1016/j.neuroimage.2022.119327}{10.1016/j.neuroimage.2022.119327}.
+
+
 *  <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation in Multichannel MRI](https://ieeexplore.ieee.org/document/10190117)<br><em> IEEE Transactions on Medical Imaging 43:286-296, 2024</em>. [(Extended preprint)](https://arxiv.org/abs/2302.13431). <br>[Related software.](https://mr.usc.edu/download/pisco/)<br>
 
 * D. Kim, J. Coll-Font, <b>R. A. Lobos</b>, D. Stab, J. Pang, A. Foster, T. Garrett, X. Bi, P. Speier, J. P. Haldar, C. Nguyen.  <br>[Single breath-hold CINE imaging with combined Simultaneous Multi-Slice (SMS) and Region-Optimized Virtual (ROVir) coils](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29620)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
