@@ -58,13 +58,30 @@ author_profile: true
 
 * C. Maffei, E. Dann, M. Celestine, <b>R. Jones</b>, J. Lehman, H. Wang, S. Haber, and A. Yendiki. 2024. <br>[Multi-modal multi-scale imaging reveals that long-association cortico-cortical systems are composed of short-range relay fibers](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=4025)<br><em> In OHBM, p. 2153.
 
-* C. Maffei, E. Dann, <b>R. Jones</b>, M. R. Celestine, H. Wang, S. Haber, and A. Yendiki. 2024. <br>[Multi-modal multi-scale imaging reveals that long-association cortico-cortical systems are composed of short-range relay fibers](https://r-j-jones.github.io)<br><em> In ISMRM, p. 2156.
+* C. Maffei, E. Dann, <b>R. Jones</b>, M.R. Celestine, H. Wang, S. Haber, and A. Yendiki. 2024. <br>[Multi-modal multi-scale imaging reveals that long-association cortico-cortical systems are composed of short-range relay fibers](https://r-j-jones.github.io)<br><em> In ISMRM, p. 2156.
 
-* C. Maffei, G. Girard, K. G. Schilling, D. B. Aydogan, N. Adluru, A. Zhylka, Y. Wu, M. Mancini, A. Hamamci, A. Sarica, D. Karimi, F. C. Yeh, M.E. Yildiz, A. Gholipour, A. Quattrone, A. Quattrone, P. T. Yap, A. de Luca, J. Pluim, A. Leemans, V. Prabhakaran, B. B. Bendlin, A. L. Alexander, B. A. Landman, E.J. Canales-Rodr ́ıguez, M. Barakovic, J. Rafael-Patino, T. Yu, G. Rensonnet, S. Schiavi, A. Daducci, M. Pizzolato, E. Fischi-Gomez, J. P. Thiran, G. Dai, G. Grisot, N. Lazovski, S. Puch, M. Ramos, P. Rodrigues, V. Prchkovska, <b>R. Jones</b>, J. Lehman, S. Haber, and A. Yendiki. 2021. <br>[New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/0864.html)<br><em> In ISMRM, p. 0864.
+* C. Maffei, G. Girard, K.G. Schilling, D.B. Aydogan, N. Adluru, A. Zhylka, Y. Wu, M. Mancini, A. Hamamci, A. Sarica, D. Karimi, F.C. Yeh, M.E. Yildiz, A. Gholipour, A. Quattrone, A. Quattrone, P.T. Yap, A. de Luca, J. Pluim, A. Leemans, V. Prabhakaran, B.B. Bendlin, A.L. Alexander, B.A. Landman, E.J. Canales-Rodr ́ıguez, M. Barakovic, J. Rafael-Patino, T. Yu, G. Rensonnet, S. Schiavi, A. Daducci, M. Pizzolato, E. Fischi-Gomez, J.P. Thiran, G. Dai, G. Grisot, N. Lazovski, S. Puch, M. Ramos, P. Rodrigues, V. Prchkovska, <b>R. Jones</b>, J. Lehman, S. Haber, and A. Yendiki. 2021. <br>[New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/0864.html)<br><em> In ISMRM, p. 0864.
 
 * M. Kim, D. Pagliaccio, <b>R. Jones</b>, A. Henin, S.G. Hofmann, D.A. Pizzagalli, J.D.E. Gabrieli, R.P. Auerbach, S. Whitfield-Gabrieli, A. Yendiki. 2021. <br>[Multivariate associations of brain function, structure, and mental health disorders in adolescents](https://r-j-jones.github.io)<br><em> In OHBM, p. 1142.
 
-* <b>R. Jones</b>, C. Maffei, Q. Fan, J. Augustinack, B. Wichtmann, A. Nummenmaa, S. Huang, and A. Yendiki.
-2021. <br>[Validation of between-bundle differences and within-bundle continuity of microstructural indices in ex
-vivo human brain tissue](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/3638.html)<br><em> In ISMRM, p.3638.
+* <b>R. Jones</b>, C. Maffei, Q. Fan, J. Augustinack, B. Wichtmann, A. Nummenmaa, S. Huang, and A. Yendiki. 2021. <br>[Validation of between-bundle differences and within-bundle continuity of microstructural indices in ex vivo human brain tissue](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/3638.html)<br><em> In ISMRM, p.3638.
+
+* <b>R. Jones</b>, Q. Tian, C. Maffei, J. Augustinack, A. Nummenmaa, S. Huang, and A. Yendiki. 2021. <br>[Generalized anisotropy profiles distinguish cortical and subcortical structures in ex vivo diffusion MRI](https://cds.ismrm.org/protected/21MProceedings/PDFfiles/2029.html)<br><em> In ISMRM, p.2029.
+
+* H. Wang, <b>R. Jones</b>, D. Varadarajan, C. Magnain, A. Yendiki, J.R. Polimeni, B. Fischl. 2021. <br>[Optical property revealing vascular network and pathological lesion in human brain tissues with as-PSOCT](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11629/116291G/Optical-property-revealing-vascular-network-and-pathological-lesion-in-human/10.1117/12.2579506.full#_=_)<br><em> In Proc. SPIE BiOS, p.11629.
+
+* A. Yendiki, <b>R. Jones</b>, A. Dalca, H. Wang, and B. Fischl. 2020. <br>[Towards taking the guesswork (and the errors) out of diffusion tractography](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/0856.html)<br><em> In ISMRM, p.0856.
+
+* C. Maffei, <b>R. Jones</b>, C. Johnson, H. Wang, A. Yendiki. 2020. <br>[Investigating SLFI anatomy using high-resolution dMRI](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/4466.html)<br><em> In ISMRM, p4466.
+
+* C. Maffei, G.Girard, K.G. Schilling, N. Adluru, D.B. Aydogan, A. Hamamci, F.C. Yeh, M. Mancini, Y. Wu, A. Sarica, A. Teillac, S.H. Baete, D. Karimi, Y.C. Lin, F. Boada, N. Richard, B. Hiba, A. Quattrone, Y. Hong, D. Shen, P.T. Yap, T. Boshkovski, J.S.W. Campbell, N. Stikov, G.B. Pike, B.B. Bendlin, A.L. Alexander, V. Prabhakaran, A. Anderson, B.A. Landman, E.J. Canales-Rodr ́ıguez, M. Barakovic, J. Rafael-Patino, T. Yu, G. Rensonnet, S. Schiavi, A. Daducci, M. Pizzolato, E. Fischi-Gomez, J.P. Thiran, G. Dai, G. Grisot, N. Lazovski, A. Puente, M. Rowe, I. Sanchez, V. Prchkovska, <b>R. Jones</b>, J. Lehman, S. Haber, and A. Yendiki. 2020. <br>[The IronTract challenge: Validation and optimal tractography methods for the HCP diffusion acquisition scheme](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/0849.html)<br><em> In ISMRM, p.0849.
+
+* N.A. Hubbard, N. Lo, M. Goncalves, I. Frosch, V. Siless, C.C. Bauer, K. Conroy, E. Cosby, A. Hay, <b>R. Jones</b>, M. Pinaire, F. Vaz De Souza, G. Vergara, A. Henin, D. Hirshfeld-Becker, S. Hofmann, D. Pizzagalli, A. Yendiki, R. Auerbach, S. Ghosh, J.D.E. Gabrieli, S. Whitfield-Gabrieli. 2019. <br>[Cognitive control-related brain activation patterns predict adolescent anhedonia symptoms]()<br><em> In APS Annual Convention.
+
+* G. Grisot, <b>R. Jones</b>, J. Augustinack, D. Boas, B. Fischl, H. Wang, A. Yendiki. 2018. <br>[Validation of high angular resolution diffusion MRI models in the human brain with PS-OCT](https://www.pathlms.com/ohbm/courses/8246/sections/12541/video_presentations/115995)<br><em> In OHBM, p.1847.
+
+
+
+
+
 
